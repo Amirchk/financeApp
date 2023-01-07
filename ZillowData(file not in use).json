@@ -1,0 +1,920 @@
+{
+   "listingProvider":{
+      "enhancedVideoURL":null,
+      "showNoContactInfoMessage":false,
+      "postingGroupName":null,
+      "isZRMSourceText":null,
+      "showLogos":null,
+      "disclaimerText":null,
+      "sourceText":null,
+      "title":"Listing Provided by",
+      "logos":{
+         
+      },
+      "postingWebsiteURL":null,
+      "agentLicenseNumber":null,
+      "postingWebsiteLinkText":"See listing website",
+      "enhancedDescriptionText":null,
+      "agentName":null
+   },
+   "buildingPermits":null,
+   "propertyTaxRate":1.01,
+   "contact_recipients":[
+      {
+         "agent_reason":1,
+         "zpro":null,
+         "recent_sales":0,
+         "review_count":57,
+         "display_name":"Jim Pullin",
+         "zuid":"X1-ZU11t0lr5j8rqx5_34dhh",
+         "rating_average":5,
+         "badge_type":"Premier Agent",
+         "phone":{
+            "prefix":"207",
+            "areacode":"206",
+            "number":"8763"
+         },
+         "image_url":"https:\/\/photos.zillowstatic.com\/h_n\/ISfkgeu1boe63o1000000000.jpg"
+      }
+   ],
+   "solarPotential":null,
+   "longitude":-122.34212,
+   "zpid":2080998890,
+   "address":{
+      "city":"Seattle",
+      "neighborhood":null,
+      "state":"WA",
+      "streetAddress":"757 Hayes St",
+      "zipcode":"98109"
+   },
+   "cityId":16037,
+   "timeOnZillow":"698 days",
+   "url":"\/homedetails\/757-Hayes-St-Seattle-WA-98109\/2080998890_zpid\/",
+   "zestimate":null,
+   "imgSrc":"https:\/\/photos.zillowstatic.com\/fp\/306c91504435f821b222f2e5acb36d0d-p_d.jpg",
+   "zipcode":"98109",
+   "zestimateLowPercent":null,
+   "livingAreaValue":2236,
+   "dateSold":"2021-01-29",
+   "livingArea":2236,
+   "isListedByOwner":false,
+   "taxHistory":{
+      
+   },
+   "streetAddress":"757 Hayes St",
+   "county":null,
+   "stateId":59,
+   "rentZestimate":4264,
+   "countyId":207,
+   "timeZone":"America\/Los_Angeles",
+   "homeType":"TOWNHOUSE",
+   "livingAreaUnits":"sqft",
+   "comingSoonOnMarketDate":null,
+   "resoFacts":{
+      "hasAttachedProperty":false,
+      "frontageType":null,
+      "poolFeatures":null,
+      "flooring":[
+         "Tile",
+         "Hardwood"
+      ],
+      "foundationDetails":{
+         
+      },
+      "accessibilityFeatures":null,
+      "hasGarage":false,
+      "hasPetsAllowed":null,
+      "bodyType":null,
+      "topography":null,
+      "landLeaseExpirationDate":null,
+      "hasAdditionalParcels":false,
+      "waterViewYN":null,
+      "atAGlanceFacts":[
+         {
+            "factLabel":"Type",
+            "factValue":"Townhouse"
+         },
+         {
+            "factLabel":"Year Built",
+            "factValue":"2020"
+         },
+         {
+            "factLabel":"Heating",
+            "factValue":"Heat pump"
+         },
+         {
+            "factLabel":"Cooling",
+            "factValue":null
+         },
+         {
+            "factLabel":"Parking",
+            "factValue":"1 Parking space"
+         },
+         {
+            "factLabel":"HOA",
+            "factValue":"$49 monthly"
+         },
+         {
+            "factLabel":"Lot",
+            "factValue":"801 sqft"
+         },
+         {
+            "factLabel":"Offer Review Date",
+            "factValue":null
+         }
+      ],
+      "offerReviewDate":null,
+      "aboveGradeFinishedArea":null,
+      "view":[
+         "City"
+      ],
+      "buyerAgencyCompensationType":null,
+      "rooms":[
+         {
+            "level":null,
+            "dimensions":null,
+            "features":null,
+            "roomFeatures":null,
+            "roomArea":null,
+            "roomAreaSource":null,
+            "roomLength":null,
+            "width":null,
+            "roomDescription":null,
+            "roomWidth":null,
+            "roomLevel":null,
+            "roomLengthWidthUnits":null,
+            "roomLengthWidthSource":null,
+            "roomDimensions":null,
+            "roomAreaUnits":null,
+            "roomType":"WalkInCloset",
+            "length":null,
+            "description":null,
+            "area":null
+         },
+         {
+            "level":null,
+            "dimensions":null,
+            "features":null,
+            "roomFeatures":null,
+            "roomArea":null,
+            "roomAreaSource":null,
+            "roomLength":null,
+            "width":null,
+            "roomDescription":null,
+            "roomWidth":null,
+            "roomLevel":null,
+            "roomLengthWidthUnits":null,
+            "roomLengthWidthSource":null,
+            "roomDimensions":null,
+            "roomAreaUnits":null,
+            "roomType":"DiningRoom",
+            "length":null,
+            "description":null,
+            "area":null
+         }
+      ],
+      "carportSpaces":null,
+      "cityRegion":"Seattle",
+      "mainLevelBathrooms":null,
+      "hasPrivatePool":null,
+      "associationFeeIncludes":null,
+      "waterSource":[
+         "Public"
+      ],
+      "exteriorFeatures":[
+         "Wood",
+         "Cement \/ Concrete"
+      ],
+      "coveredSpaces":null,
+      "inclusions":null,
+      "hasFireplace":null,
+      "zoningDescription":null,
+      "garageSpaces":null,
+      "sewer":[
+         "Sewer Connected"
+      ],
+      "elevationUnits":null,
+      "exclusions":null,
+      "mainLevelBedrooms":null,
+      "numberOfUnitsVacant":null,
+      "hasWaterfrontView":null,
+      "listAOR":null,
+      "lotSize":"801 sqft",
+      "entryLevel":null,
+      "irrigationWaterRightsAcres":null,
+      "greenWaterConservation":null,
+      "stories":null,
+      "livingArea":"2,236 sqft",
+      "numberOfUnitsInCommunity":null,
+      "listingTerms":null,
+      "otherStructures":null,
+      "associationFee":null,
+      "marketingType":null,
+      "greenIndoorAirQuality":null,
+      "greenSustainability":null,
+      "hasHomeWarranty":false,
+      "associationPhone":null,
+      "greenBuildingVerificationType":null,
+      "elementarySchool":"John Hay Elementary",
+      "bedrooms":3,
+      "architecturalStyle":null,
+      "listingId":null,
+      "structureType":"Modern",
+      "interiorFeatures":null,
+      "horseAmenities":null,
+      "electric":null,
+      "developmentStatus":null,
+      "lotFeatures":null,
+      "roofType":null,
+      "waterSources":null,
+      "constructionMaterials":{
+         
+      },
+      "fireplaceFeatures":null,
+      "doorFeatures":null,
+      "appliances":[
+         "Dishwasher",
+         "Garbage disposal",
+         "Microwave",
+         "Range \/ Oven",
+         "Refrigerator"
+      ],
+      "daysOnZillow":698,
+      "bathroomsPartial":null,
+      "bathroomsHalf":0,
+      "depositsAndFees":null,
+      "canRaiseHorses":false,
+      "buildingName":null,
+      "hasAssociation":true,
+      "petsMaxWeight":null,
+      "commonWalls":null,
+      "totalActualRent":null,
+      "additionalParcelsDescription":null,
+      "associationName":null,
+      "allowedPets":null,
+      "communityFeatures":{
+         
+      },
+      "tenantPays":null,
+      "middleOrJuniorSchool":"Mc Clure Mid",
+      "lotSizeDimensions":null,
+      "roadSurfaceType":null,
+      "hasOpenParking":null,
+      "yearBuilt":2020,
+      "livingAreaRangeUnits":null,
+      "irrigationWaterRightsYN":null,
+      "bathroomsFull":2,
+      "horseYN":null,
+      "incomeIncludes":null,
+      "highSchool":null,
+      "leaseTerm":null,
+      "elevation":null,
+      "cropsIncludedYN":null,
+      "attic":null,
+      "subdivisionName":null,
+      "windowFeatures":null,
+      "ownership":null,
+      "woodedArea":null,
+      "middleOrJuniorSchoolDistrict":"Seattle",
+      "associationPhone2":null,
+      "buyerAgencyCompensation":null,
+      "heating":[
+         "Heat pump"
+      ],
+      "frontageLength":null,
+      "virtualTourURLUnbranded":null,
+      "associationAmenities":null,
+      "propertySubType":null,
+      "hasCooling":false,
+      "belowGradeFinishedArea":null,
+      "hasElectricOnProperty":null,
+      "foundationArea":null,
+      "zoning":null,
+      "hoaFee":"$49 monthly",
+      "livingAreaRange":null,
+      "basementYN":false,
+      "availabilityDate":null,
+      "waterBodyName":null,
+      "waterfrontFeatures":null,
+      "specialListingConditions":null,
+      "buildingAreaSource":null,
+      "taxAnnualAmount":null,
+      "parking":1,
+      "hasView":true,
+      "virtualTour":null,
+      "securityFeatures":null,
+      "cooling":{
+         
+      },
+      "entryLocation":null,
+      "otherFacts":[
+         {
+            "value":"Y",
+            "name":"Bus line nearby"
+         },
+         {
+            "value":"RESI",
+            "name":"Property type"
+         },
+         {
+            "value":"Natural Gas, Electric",
+            "name":"Energy source"
+         },
+         {
+            "value":"Cement\/Concrete, Wood, Cement Planked",
+            "name":"Exterior"
+         },
+         {
+            "value":"90%+ High Efficiency, Ductless HP-Mini Split, Hot Water Recirc Pump, Tankless Water Heater",
+            "name":"Heating and cooling"
+         },
+         {
+            "value":"Upper",
+            "name":"Master bedroom location"
+         },
+         {
+            "value":"Sewer Connected",
+            "name":"Sewer"
+         },
+         {
+            "value":"Public",
+            "name":"Water source"
+         },
+         {
+            "value":"Very Good",
+            "name":"Building condition"
+         },
+         {
+            "value":"Poured Concrete",
+            "name":"Foundation"
+         },
+         {
+            "value":"Closing",
+            "name":"Possesion"
+         },
+         {
+            "value":"CCRs",
+            "name":"Community features"
+         },
+         {
+            "value":"Garage-Attached",
+            "name":"Parking type"
+         },
+         {
+            "value":"Provided",
+            "name":"Form 17"
+         },
+         {
+            "value":"Main",
+            "name":"Dining room location"
+         },
+         {
+            "value":"Main",
+            "name":"Entrance level"
+         },
+         {
+            "value":"Main",
+            "name":"Living room location"
+         },
+         {
+            "value":"Range\/Oven, Garbage Disposal, Dishwasher, Refrigerator, Microwave",
+            "name":"Appliances that stay"
+         },
+         {
+            "value":"Upper",
+            "name":"Den or office"
+         },
+         {
+            "value":"Main",
+            "name":"Kitchen (w\/ eating area) location"
+         },
+         {
+            "value":"Paved Street, Sidewalk, Curbs",
+            "name":"Lot details"
+         },
+         {
+            "value":"Lake, Territorial, City",
+            "name":"View"
+         },
+         {
+            "value":"Modern",
+            "name":"Architecture"
+         },
+         {
+            "value":"Completed",
+            "name":"New construction"
+         },
+         {
+            "value":"Flat",
+            "name":"Roof"
+         },
+         {
+            "value":"Bath Off Master, Vaulted Ceilings, Dbl Pane\/Storm Windw, Dining Room, 2nd Kitchen, Walk-in Closet, High Tech Cabling, Wet Bar, SMART Wired",
+            "name":"Features"
+         },
+         {
+            "value":"Hardwood, Ceramic Tile",
+            "name":"Floor covering"
+         },
+         {
+            "value":"Cash Out, Conventional",
+            "name":"Potential terms"
+         },
+         {
+            "value":"Cable TV, High Speed Internet, Sprinkler System, Electric Car Charging, Rooftop Deck",
+            "name":"Site features"
+         },
+         {
+            "value":"Reviewed on receipt",
+            "name":"Offers"
+         },
+         {
+            "value":"Attached\/Zero Lot Line",
+            "name":"Building info"
+         },
+         {
+            "value":"2.5",
+            "name":"Commission"
+         }
+      ],
+      "levels":null,
+      "ownershipType":null,
+      "basement":null,
+      "onMarketDate":null,
+      "waterView":"",
+      "laundryFeatures":null,
+      "hasAttachedGarage":null,
+      "fencing":null,
+      "spaFeatures":null,
+      "bathrooms":3,
+      "homeType":"Townhouse",
+      "isSeniorCommunity":null,
+      "municipality":null,
+      "bathroomsThreeQuarter":1,
+      "hasSpa":false,
+      "otherParking":null,
+      "associationFee2":null,
+      "parcelNumber":null,
+      "hasHeating":true,
+      "associationName2":null,
+      "hasRentControl":null,
+      "elementarySchoolDistrict":"Seattle",
+      "otherEquipment":null,
+      "parkingFeatures":[
+         "Garage - Attached"
+      ],
+      "buildingArea":null,
+      "furnished":false,
+      "vegetation":null,
+      "patioAndPorchFeatures":null,
+      "buildingFeatures":null,
+      "builderName":null,
+      "highSchoolDistrict":"Seattle",
+      "propertyCondition":null,
+      "storiesTotal":null,
+      "yearBuiltEffective":null,
+      "fireplaces":null,
+      "bathroomsOneQuarter":0,
+      "builderModel":null,
+      "gas":null,
+      "utilities":null,
+      "greenEnergyEfficient":null,
+      "landLeaseAmount":null,
+      "isNewConstruction":null,
+      "hasLandLease":false,
+      "pricePerSquareFoot":660,
+      "hasCarport":null,
+      "openParkingSpaces":null
+   },
+   "bathrooms":3,
+   "annualHomeownersInsurance":6195,
+   "state":"WA",
+   "description":"Last home left at the Westlake Collection! A boutique community where high-tech, dramatic design & luxury harmoniously meet. The double-height living room and high-end chef's kitchen featuring Thermador appliances are perfect forentertaining. Ascend the floating stairs along a sculptural wall that is sure to amaze. Enjoy the top floor penthouse foryear-round indoor and outdoor entertainment. Minutes to Facebook, Amazon, Google, DT Seattle, Fremont, Queen Anne,Westlake and SLU!",
+   "building":null,
+   "propertyTypeDimension":"Townhouse",
+   "yearBuilt":2020,
+   "brokerageName":null,
+   "price":1475000,
+   "pageViewCount":6,
+   "monthlyHoaFee":49,
+   "attributionInfo":{
+      "lastUpdated":null,
+      "mlsName":null,
+      "listingAgreement":null,
+      "infoString1":null,
+      "infoString20":null,
+      "infoString14":null,
+      "infoString15":null,
+      "infoString11":null,
+      "infoString10":null,
+      "coAgentName":null,
+      "coAgentNumber":null,
+      "infoString5":null,
+      "providerLogo":null,
+      "infoString18":null,
+      "mlsDisclaimer":null,
+      "brokerPhoneNumber":null,
+      "lastChecked":null,
+      "buyerAgentName":null,
+      "infoString7":null,
+      "infoString6":null,
+      "infoString12":null,
+      "coAgentLicenseNumber":null,
+      "infoString13":null,
+      "listingOffices":[
+         {
+            "associatedOfficeType":"listOffice",
+            "officeName":null
+         }
+      ],
+      "buyerAgentMemberStateLicense":null,
+      "brokerName":null,
+      "trueStatus":null,
+      "attributionTitle":null,
+      "infoList2":{
+         
+      },
+      "agentName":null,
+      "mlsId":null,
+      "infoList1":[
+         {
+            "infoField1":"listOffice",
+            "infoField2":null
+         }
+      ],
+      "infoString4":null,
+      "agentEmail":null,
+      "listingAgents":{
+         
+      },
+      "agentPhoneNumber":null,
+      "agentLicenseNumber":null,
+      "infoString17":null,
+      "infoString16":null,
+      "buyerBrokerageName":null,
+      "infoString2":null,
+      "infoString3":null,
+      "infoString19":null
+   },
+   "mortgageRates":{
+      "arm5Rate":5.809,
+      "fifteenYearFixedRate":6.201,
+      "thirtyYearFixedRate":6.452
+   },
+   "homeStatus":"SOLD",
+   "homeFacts":null,
+   "latitude":47.63394,
+   "datePosted":"",
+   "bedrooms":3,
+   "nearbyHomes":[
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/photos.zillowstatic.com\/fp\/5db107cebe7a9cd5d12d84e4ea1c2841-p_c.jpg"
+            }
+         ],
+         "zpid":332976321,
+         "longitude":-122.34212,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"757 Hayes St",
+            "zipcode":"98109"
+         },
+         "price":1475000,
+         "homeType":"TOWNHOUSE",
+         "homeStatus":"SOLD",
+         "currency":"USD",
+         "latitude":47.63394
+      },
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/photos.zillowstatic.com\/fp\/e7eeee7a79cd459ac7df8ac7889a5ea3-p_c.jpg"
+            }
+         ],
+         "zpid":2082346047,
+         "longitude":-122.34207,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"759 Hayes St",
+            "zipcode":"98109"
+         },
+         "price":1575000,
+         "homeType":"TOWNHOUSE",
+         "homeStatus":"SOLD",
+         "currency":"USD",
+         "latitude":47.63394
+      },
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/photos.zillowstatic.com\/fp\/1f993954aa8d8ac84503666d46030e98-p_c.jpg"
+            }
+         ],
+         "zpid":332976322,
+         "longitude":-122.34207,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"759 Hayes St",
+            "zipcode":"98109"
+         },
+         "price":1725000,
+         "homeType":"TOWNHOUSE",
+         "homeStatus":"RECENTLY_SOLD",
+         "currency":"USD",
+         "latitude":47.63394
+      },
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/photos.zillowstatic.com\/fp\/9dd4c6313521ab075c7471ab37e50888-p_c.jpg"
+            }
+         ],
+         "zpid":2144400198,
+         "longitude":-122.342094,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"1704 Dexter Ave N #B",
+            "zipcode":"98109"
+         },
+         "price":0,
+         "homeType":"SINGLE_FAMILY",
+         "homeStatus":"OTHER",
+         "currency":"USD",
+         "latitude":47.6338
+      },
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/maps.googleapis.com\/maps\/api\/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=47.63383102416992,-122.34193420410156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=5X5Lq69-pLDVdl7hblFEq83IAPA="
+            }
+         ],
+         "zpid":129437034,
+         "longitude":-122.341934,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"1628 Dexter Ave N",
+            "zipcode":"98109"
+         },
+         "price":2975000,
+         "homeType":"SINGLE_FAMILY",
+         "homeStatus":"RECENTLY_SOLD",
+         "currency":"USD",
+         "latitude":47.63383
+      },
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/photos.zillowstatic.com\/fp\/43f0b23304aef5c988b2d7fd49cdadd3-p_c.jpg"
+            }
+         ],
+         "zpid":332974086,
+         "longitude":-122.341866,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"755 Hayes St",
+            "zipcode":"98109"
+         },
+         "price":1650000,
+         "homeType":"TOWNHOUSE",
+         "homeStatus":"RECENTLY_SOLD",
+         "currency":"USD",
+         "latitude":47.63384
+      },
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/photos.zillowstatic.com\/fp\/fd9292e1ec8c4ba16202981d161be047-p_c.jpg"
+            }
+         ],
+         "zpid":2137443908,
+         "longitude":-122.34198,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"1702 Dexter Ave N",
+            "zipcode":"98109"
+         },
+         "price":0,
+         "homeType":"TOWNHOUSE",
+         "homeStatus":"OTHER",
+         "currency":"USD",
+         "latitude":47.63413
+      },
+      {
+         "miniCardPhotos":[
+            {
+               "url":"https:\/\/photos.zillowstatic.com\/fp\/a1dbe07156ed64592d58b714a1087d86-p_c.jpg"
+            }
+         ],
+         "zpid":49102198,
+         "longitude":-122.34201,
+         "address":{
+            "city":"Seattle",
+            "state":"WA",
+            "streetAddress":"1700 Dexter Ave N",
+            "zipcode":"98109"
+         },
+         "price":675700,
+         "homeType":"SINGLE_FAMILY",
+         "homeStatus":"OTHER",
+         "currency":"USD",
+         "latitude":47.63414
+      }
+   ],
+   "brokerId":null,
+   "priceHistory":[
+      {
+         "priceChangeRate":-0.045307443365696,
+         "date":"2021-01-29",
+         "source":"NWMLS",
+         "postingIsRental":false,
+         "time":1611878400000,
+         "sellerAgent":{
+            "name":"Carlene Pride",
+            "photo":{
+               "url":"https:\/\/photos.zillowstatic.com\/h_e\/ISap5el5snthc31000000000.jpg"
+            },
+            "profileUrl":"\/profile\/carlenepride\/"
+         },
+         "showCountyLink":false,
+         "attributeSource":{
+            "infoString2":"NWMLS",
+            "infoString3":null,
+            "infoString1":"1648689"
+         },
+         "pricePerSquareFoot":660,
+         "buyerAgent":{
+            "name":"Jason Foss",
+            "photo":{
+               "url":"https:\/\/photos.zillowstatic.com\/h_e\/ISyvibhmcpl5lh1000000000.jpg"
+            },
+            "profileUrl":"\/profile\/Jason-Foss\/"
+         },
+         "event":"Sold",
+         "price":1475000
+      },
+      {
+         "priceChangeRate":0,
+         "date":"2021-01-04",
+         "source":"Compass via MLS",
+         "postingIsRental":false,
+         "time":1609718400000,
+         "sellerAgent":null,
+         "showCountyLink":false,
+         "attributeSource":{
+            "infoString2":"Compass via MLS",
+            "infoString3":"https:\/\/photos.zillowstatic.com\/fp\/984849d5c20cccd0f0cb265ee49a8ea1-zillow_web_logo_inf_11.jpg",
+            "infoString1":null
+         },
+         "pricePerSquareFoot":691,
+         "buyerAgent":null,
+         "event":"Pending sale",
+         "price":1545000
+      },
+      {
+         "priceChangeRate":-0.019047619047619,
+         "date":"2020-10-15",
+         "source":"COMPASS",
+         "postingIsRental":false,
+         "time":1602720000000,
+         "sellerAgent":null,
+         "showCountyLink":false,
+         "attributeSource":{
+            "infoString2":"COMPASS",
+            "infoString3":null,
+            "infoString1":null
+         },
+         "pricePerSquareFoot":691,
+         "buyerAgent":null,
+         "event":"Price change",
+         "price":1545000
+      },
+      {
+         "priceChangeRate":-0.1,
+         "date":"2020-08-18",
+         "source":"COMPASS",
+         "postingIsRental":false,
+         "time":1597708800000,
+         "sellerAgent":null,
+         "showCountyLink":false,
+         "attributeSource":{
+            "infoString2":"COMPASS",
+            "infoString3":null,
+            "infoString1":null
+         },
+         "pricePerSquareFoot":704,
+         "buyerAgent":null,
+         "event":"Listed for sale",
+         "price":1575000
+      },
+      {
+         "priceChangeRate":0,
+         "date":"2020-04-10",
+         "source":"Compass Washington",
+         "postingIsRental":false,
+         "time":1586476800000,
+         "sellerAgent":null,
+         "showCountyLink":false,
+         "attributeSource":{
+            "infoString2":"Compass Washington",
+            "infoString3":null,
+            "infoString1":null
+         },
+         "pricePerSquareFoot":783,
+         "buyerAgent":null,
+         "event":"Listing removed",
+         "price":1750000
+      },
+      {
+         "priceChangeRate":0,
+         "date":"2020-02-17",
+         "source":"Compass Washington",
+         "postingIsRental":false,
+         "time":1581897600000,
+         "sellerAgent":null,
+         "showCountyLink":false,
+         "attributeSource":{
+            "infoString2":"Compass Washington",
+            "infoString3":null,
+            "infoString1":null
+         },
+         "pricePerSquareFoot":783,
+         "buyerAgent":null,
+         "event":"Listed for sale",
+         "price":1750000
+      }
+   ],
+   "favoriteCount":0,
+   "schools":[
+      {
+         "link":"https:\/\/www.greatschools.org\/school?id=05659&state=WA",
+         "rating":8,
+         "totalCount":1,
+         "distance":0.5,
+         "assigned":null,
+         "name":"Queen Anne Elementary School",
+         "studentsPerTeacher":15,
+         "isAssigned":true,
+         "size":291,
+         "level":"Elementary",
+         "grades":"K-5",
+         "type":"Public"
+      },
+      {
+         "link":"https:\/\/www.greatschools.org\/school?id=01585&state=WA",
+         "rating":8,
+         "totalCount":1,
+         "distance":1.1,
+         "assigned":null,
+         "name":"Mcclure Middle School",
+         "studentsPerTeacher":19,
+         "isAssigned":true,
+         "size":537,
+         "level":"Middle",
+         "grades":"6-8",
+         "type":"Public"
+      },
+      {
+         "link":"https:\/\/www.greatschools.org\/school?id=01561&state=WA",
+         "rating":7,
+         "totalCount":1,
+         "distance":3.1,
+         "assigned":null,
+         "name":"Garfield High School",
+         "studentsPerTeacher":22,
+         "isAssigned":true,
+         "size":1778,
+         "level":"High",
+         "grades":"9-12",
+         "type":"Public"
+      }
+   ],
+   "zestimateHighPercent":null,
+   "mlsid":null,
+   "countyFIPS":null,
+   "city":"Seattle",
+   "providerListingID":null,
+   "country":"USA",
+   "currency":"USD",
+   "listed_by":{
+      "agent_reason":null,
+      "zpro":null,
+      "recent_sales":null,
+      "review_count":null,
+      "display_name":null,
+      "badge_type":null,
+      "business_name":null,
+      "rating_average":null,
+      "phone":null,
+      "zuid":null,
+      "image_url":null
+   },
+   "contingentListingType":null
+}
